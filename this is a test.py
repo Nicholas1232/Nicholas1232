@@ -1,0 +1,4 @@
+def main():
+    print("this is a test")
+    
+main()
